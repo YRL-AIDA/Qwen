@@ -1,0 +1,41 @@
+[
+  {
+    "id": "identity_1",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 4: <img>image6.jpg</img>\naaa"
+      },
+      {
+        "from": "assistant",
+        "value": "aaa"
+      }
+    ]
+  },
+  {
+    "id": "identity_2",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 2: <img>image3.png</img>\nапвыап"
+      },
+      {
+        "from": "assistant",
+        "value": "выапвап"
+      }
+    ]
+  },
+  {
+    "id": "identity_3",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Отметьте dfgdfhg"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>dfgdfhg</ref><box>(30,96),(397,173)</box>"
+      }
+    ]
+  }
+]

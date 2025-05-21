@@ -1,0 +1,422 @@
+[
+  {
+    "id": "identity_1",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 1: <img>image1.png</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ИП Иванов Леонид Викторович"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(107,206),(347,226)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_2",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 2: <img>image2.jpg</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ООО 'Василек'"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(90,164),(161,177)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_3",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 3: <img>image3.png</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ООО 'Рассвет'"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(98,261),(191,275)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_4",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 4: <img>image4.png</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ООО 'Клик.ру'"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(157,259),(247,274)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_5",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 5: <img>image5.jpg</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "АО 'СПЕЦРЕМ'"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(96,155),(183,169)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_6",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 6: <img>image6.jpg</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ООО 'Омега'"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(114,208),(162,217)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_7",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 7: <img>image7.png</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "Не указан"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(81,185),(354,199)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_8",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 8: <img>image8.png</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ООО 'Автоуслуги'"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(117,216),(223,232)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_9",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 9: <img>image9.jpg</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ООО 'Строитель'"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(93,22),(150,33)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_10",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 10: <img>image10.jpg</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "Комфорт-сервис"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(93,46),(201,64)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_11",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 11: <img>image11.png</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ЗАО 'Торговый дом Комплексный'"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(58,252),(195,264)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_12",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 12: <img>image12.jpg</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "Индивидуальный предприниматель Продаванов Иван Иванович"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(80,168),(348,181)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_13",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 13: <img>image13.png</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ООО 'РОМАШКА'"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(97,170),(199,187)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_14",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 14: <img>image14.jpg</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ООО 'Арго'"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(173,251),(237,267)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_15",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 15: <img>image15.jpg</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ООО 'Конфетпром'"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(71,210),(164,223)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_16",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 16: <img>image16.jpg</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ТОО 'Рога и копыта'"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(260,291),(396,309)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_17",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 17: <img>image17.jpg</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ЗАО 'Торговый дом Комплексный'"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(62,231),(205,246)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_18",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 18: <img>image18.jpg</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ООО 'Ромашка'"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(95,288),(177,303)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_19",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 19: <img>image19.jpg</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ИП Иванов Анатолий Иванович"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(82,213),(261,228)</box>"
+      }
+    ]
+  },
+  {
+    "id": "identity_20",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "Picture 20: <img>image20.jpg</img>\nКто поставщик?"
+      },
+      {
+        "from": "assistant",
+        "value": "ИП Александрова Елена Владимировна"
+      },
+      {
+        "from": "user",
+        "value": "Отметьте Поставщик"
+      },
+      {
+        "from": "assistant",
+        "value": "<ref>Поставщик</ref><box>(255,318),(495,334)</box>"
+      }
+    ]
+  }
+]
